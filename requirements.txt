@@ -1,0 +1,6 @@
+aiogram==2.25.1
+aiohttp==3.9.5
+beautifulsoup4
+magic-filter
+Babel
+staypresent
