@@ -1,0 +1,28 @@
+{
+  "8702178419": {
+    "id": 8702178419,
+    "username": "soxupe",
+    "first_name": "⁠",
+    "requests": 0,
+    "book": null,
+    "last_number": null,
+    "last_number_time": null,
+    "first_seen": "2026-10-16T00:18:50",
+    "last_seen": "2026-10-16T00:21:22",
+    "total_seconds": 152,
+    "session_start": 1792099282.6292481
+  },
+  "8896785169": {
+    "id": 8896785169,
+    "username": "uxteg",
+    "first_name": "Акстег",
+    "requests": 0,
+    "book": null,
+    "last_number": null,
+    "last_number_time": null,
+    "first_seen": "2026-10-16T00:19:35",
+    "last_seen": "2026-10-16T01:27:35",
+    "total_seconds": 4079,
+    "session_start": 1792103255.665156
+  }
+}
